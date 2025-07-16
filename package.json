@@ -2,6 +2,9 @@
   "name": "delta-azan-bot",
   "description": "a deltachat bot for Azan",
   "type": "module",
+  "scripts": {
+    "start": "node ./main.js"
+  },
   "dependencies": {
     "@deltachat/stdio-rpc-server": "^2.2.0",
     "adhan": "^4.4.3"
