@@ -1,0 +1,9 @@
+{
+  "name": "delta-azan-bot",
+  "description": "a deltachat bot for Azan",
+  "type": "module",
+  "dependencies": {
+    "@deltachat/stdio-rpc-server": "^2.2.0",
+    "adhan": "^4.4.3"
+  }
+}

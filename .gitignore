@@ -1,0 +1,8 @@
+node_modules/
+deltachat-data/
+
+play.*
+*.html
+*.zip
+*.db
+*.env
